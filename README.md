@@ -21,3 +21,16 @@ Data is obtained from Yahoo Finance using the yfinance library.
 
 ## Author
 Mingyang Liu 2471001
+
+## About the use of AI
+
+This project used AI tools (ChatGPT, deepseek) to support the development of the Python notebook.
+
+The AI was used to:
+- Improve code structure and organisation
+- Suggest minor enhancements such as adding Sharpe Ratio
+- Provide guidance on project structure and presentation
+- Help me to find some specific data of stocks
+  
+All analysis, interpretation, and final decisions were made by myself.  
+I reviewed and understood all code before including it in the final submission.
